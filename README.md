@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a double master's graduate with expertise in both Robotics and Data Science. My background reflects a passion for technology, coding, and extracting insights from data.
-
+I'm a double master's graduate with a unique blend of expertise in Robotics and Data Science. My academic foundation is a testament to my fervor for technology, programming, and deriving meaningful insights from data. Additionally, I possess specialized knowledge in areas such as CARLA, ROS, and autonomous driving, which further enhance my capabilities in these fields.
 
 ## Technical Proficiency
 

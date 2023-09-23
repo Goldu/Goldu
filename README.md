@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Greetings! I'm [Your Name]
+
+I hold dual Master's degrees in Robotics and Control Engineering, reflecting my deep-seated passion for technology and coding. Proficient in C/C++, MATLAB, Python, ROS, and Carla, I bring extensive programming experience to the table.
+
+
+## Technical Proficiency
+
+- **Programming Languages:** C/C++, MATLAB, Python, Vhdl
+- **Frameworks & Libraries:** ROS (Robot Operating System), Carla , Simulink , Targetlink
+- **Additional Skills:** Computer Vision, Robotics, Control Engineering, IOT, Embedded System

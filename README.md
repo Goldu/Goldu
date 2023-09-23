@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a double master's graduate with a unique blend of expertise in Robotics and Data Science. My academic foundation is a testament to my fervor for technology, programming, and deriving meaningful insights from data. Additionally, I possess specialized knowledge in areas such as CARLA, ROS, and autonomous driving, which further enhance my capabilities in these fields.
+I'm a double master's graduate with a fervent passion for technology, coding, and extracting insights from data. My expertise spans Robotics and Data Science, bolstered by hands-on experience in CARLA, ROS, and Unreal Engine, acquired through my professional journey rather than formal university education. This practical knowledge underlines my ability to translate theory into real-world applications, particularly in dynamic fields like robotics and autonomous systems. This autonomous passion drives me to continuously seek innovative solutions, and my proficiency in CARLA, ROS, and Unreal Engine positions me at the forefront of these transformative technologies. This combination of academic achievement and practical know-how equips me to excel in complex technical environments, making meaningful contributions to projects, especially those related to autonomous driving.
 
 ## Technical Proficiency
 

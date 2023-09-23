@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! I'm Jasim 👋
 
 <!--
 **Goldu/Goldu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Greetings! I'm [Jasim]
-
 I'm a double master's graduate with expertise in both Robotics and Data Science. My background reflects a passion for technology, coding, and extracting insights from data.
 
 

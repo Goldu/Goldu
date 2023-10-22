@@ -20,4 +20,4 @@ I'm a double master's graduate with a fervent passion for technology, coding, an
 
 - **Programming Languages:** C/C++, MATLAB, Python, VHDL
 - **Frameworks & Libraries:** ROS (Robot Operating System), Carla , Simulink , Targetlink , Slam Toolbox
-- **Additional Skills:** Computer Vision, Robotics,Machine Learning, IOT, Embedded System, Data Science
+- **Additional Skills:** Computer Vision, Robotics,Machine Learning, IOT, Embedded System, Data Science , Deep Learning
